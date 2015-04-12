@@ -1,0 +1,7 @@
+name: SoTotallyPlugin
+main: me.bukkit.SoTotallyXray.MyFirstPlugin
+version: 0.1-alpha
+website: http://lunar.playat.ch
+commands:
+  Hello:
+     description: Says hello in chat
